@@ -22,3 +22,8 @@ ExportedObj/
 *.user
 *.unityproj
 *.booproj
+
+# =========== #
+# Added by me #
+# =========== #
+*.meta
