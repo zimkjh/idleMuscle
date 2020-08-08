@@ -12,6 +12,7 @@ public class DataStore : MonoBehaviour{
     public void incMuscleCount(int incNum){
         muscleCount += incNum;
         setMuscleCount(muscleCount);
+        
     }
 
     public void setMuscleCount(int muscleCount){
